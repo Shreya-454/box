@@ -1,0 +1,29 @@
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.align-item-center {
+    align-items: center;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.min-vh-100 {
+    min-height: 100vh;
+}
+
+.click {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
